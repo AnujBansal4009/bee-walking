@@ -1,0 +1,19 @@
+body{
+    background-color: #e9da13b8;
+}
+img{
+   height: 50%;
+   border: 5px solid #9BCF53;
+   border-top: 0;
+}
+
+.poster{
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    text-transform: capitalize;
+    width: 50%;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+}
+    
